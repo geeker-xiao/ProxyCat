@@ -1,6 +1,8 @@
 import asyncio
 from typing import List
-
+# pillow==10.3.0
+# openai
+# requests
 from openai import OpenAI
 
 from image_utils import format_image, convert_image_to_base64
